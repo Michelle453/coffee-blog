@@ -36,3 +36,4 @@ Este blog ha sido desarrollado utilizando **HTML y CSS**, con un enfoque en dise
 ┣ entrada.html
 ┣ nosotros.html 
 ┗ README.md
+⭐ ¡Si te gustó el proyecto, no olvides darle una estrella en GitHub! ⭐
