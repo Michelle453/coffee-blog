@@ -1,27 +1,27 @@
 # 🚀 Coffee Blog ☕
 
-¡Bienvenido/a a Coffee Blog! 🌟 Un sitio web creado con amor por el café, donde comparto información interesante para los amantes del buen café.
+Welcome to Coffee Blog! 🌟 A website created with love for coffee, where I share interesting information for true coffee lovers.
 
-## 🌍 Enlace a la Página
-🔗 [Visita mi sitio web](https://clever-youtiao-fa4a1b.netlify.app/)
+## 🌍 Live Site
+🔗 [Visit my website](https://clever-youtiao-fa4a1b.netlify.app/)
 
-## 📌 Descripción
-Este blog ha sido desarrollado utilizando **HTML y CSS**, con un enfoque en diseño responsivo, estructura organizada y buenas prácticas como **BEM**. Ideal para disfrutar leyendo sobre el café mientras practicas desarrollo web. ☕
+## 📌 Description  
+This blog was developed using **HTML and CSS**, with a focus on responsive design, organized structure, and best practices like **BEM**. Perfect for enjoying coffee content while practicing web development. ☕  
 
-## 🎨 Tecnologías Utilizadas
-- **HTML5**: Para la estructura de las páginas.
-- **CSS3**: Para los estilos y diseño visual.
-- **Normalize.css**: Para mantener la consistencia entre navegadores.
-- **Modernizr.js**: Para detectar características del navegador.
-- **Netlify**: Para la implementación y alojamiento del sitio.
+## 🎨 Tech Stack  
+- **HTML5**: For page structure.  
+- **CSS3**: For styling and visual design.  
+- **Normalize.css**: To ensure consistency across browsers.  
+- **Modernizr.js**: To detect browser features.  
+- **Netlify**: For deployment and hosting. 
 
-## 🚀 Características
-✅ Diseño responsivo 📱💻  
-✅ Aplicación de BEM para mantener el orden en los estilos 🎯  
-✅ Uso de Modernizr y Normalize para mayor compatibilidad 🌐  
-✅ Navegación clara y amigable 🧭  
+## 🚀 Features  
+✅ Responsive design 📱💻  
+✅ Implementation of BEM methodology for clean and organized styles 🎯  
+✅ Use of Modernizr and Normalize for better compatibility 🌐  
+✅ Clear and user-friendly navigation 🧭  
 
-## 📂 Estructura del Proyecto
+## 📂 Project Structure 
 📂 coffee-blog 
 ┣ 📂 assets 
 ┃ ┣ 📂 img 
@@ -37,4 +37,4 @@ Este blog ha sido desarrollado utilizando **HTML y CSS**, con un enfoque en dise
 ┣ nosotros.html 
 ┗ README.md
 
-⭐ ¡Si te gustó el proyecto, no olvides darle una estrella en GitHub! ⭐
+⭐ If you liked this project, don’t forget to give it a star on GitHub! ⭐  
